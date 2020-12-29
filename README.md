@@ -3,7 +3,7 @@
 
 ## Hybrid Website
 - Interavtive Maps navigation
-- Trip Guide
+- Trip Guide & Article writing
 - Travel Booking
 - Mysore Articles Explorer
-- many more
+- many more....
